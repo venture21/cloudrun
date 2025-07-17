@@ -1,0 +1,6 @@
+com.example.geminichat.test.app-tracing-1.2.0-0 C:\Users\park0\.gradle\caches\8.10.2\transforms\10b2d8071b66e9924278b8bcb939716f\transformed\tracing-1.2.0\res
+com.example.geminichat.test.app-core-1.6.1-1 C:\Users\park0\.gradle\caches\8.10.2\transforms\e5200861662acc07e37a0d50ce4f9aa1\transformed\core-1.6.1\res
+com.example.geminichat.test.app-androidTest-2 C:\Users\park0\github\cloudrun\VertexGeminiApp\android\app\build\generated\res\resValues\androidTest\debug
+com.example.geminichat.test.app-mergeDebugAndroidTestResources-3 C:\Users\park0\github\cloudrun\VertexGeminiApp\android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.geminichat.test.app-mergeDebugAndroidTestResources-4 C:\Users\park0\github\cloudrun\VertexGeminiApp\android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.geminichat.test.app-debugAndroidTest-5 C:\Users\park0\github\cloudrun\VertexGeminiApp\android\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

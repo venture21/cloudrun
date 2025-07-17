@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.geminichat.app-mergeDebugResources-36:/layout/item_message_bot.xml",
+        "source": "com.example.geminichat.app-main-39:/layout/item_message_bot.xml"
+    },
+    {
+        "merged": "com.example.geminichat.app-mergeDebugResources-36:/layout/item_message_user.xml",
+        "source": "com.example.geminichat.app-main-39:/layout/item_message_user.xml"
+    },
+    {
+        "merged": "com.example.geminichat.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "com.example.geminichat.app-main-39:/layout/activity_main.xml"
+    }
+]

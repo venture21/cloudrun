@@ -1,0 +1,6 @@
+Flask==3.0.0
+flask-cors==4.0.0
+google-cloud-aiplatform==1.60.0
+vertexai==1.60.0
+pytz==2024.1
+gunicorn==21.2.0

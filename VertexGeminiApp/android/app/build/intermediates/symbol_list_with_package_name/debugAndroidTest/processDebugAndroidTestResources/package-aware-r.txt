@@ -1,0 +1,3 @@
+com.example.geminichat.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
