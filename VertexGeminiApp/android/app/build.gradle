@@ -19,12 +19,12 @@ android {
 
     buildTypes {
         debug {
-            buildConfigField "String", "API_BASE_URL", '"https://flask-chat-app-902882112756.asia-northeast3.run.app/"'
+            buildConfigField "String", "API_BASE_URL", '"https://flask-chat-app-902882112756.us-central1.run.app"'
         }
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-            buildConfigField "String", "API_BASE_URL", '"https://flask-chat-app-902882112756.asia-northeast3.run.app/"'
+            buildConfigField "String", "API_BASE_URL", '"https://flask-chat-app-902882112756.us-central1.run.app"'
         }
     }
     compileOptions {

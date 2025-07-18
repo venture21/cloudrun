@@ -10,5 +10,5 @@ public final class BuildConfig {
   public static final int VERSION_CODE = 1;
   public static final String VERSION_NAME = "1.0";
   // Field from build type: debug
-  public static final String API_BASE_URL = "https://flask-chat-app-902882112756.asia-northeast3.run.app/";
+  public static final String API_BASE_URL = "https://flask-chat-app-902882112756.us-central1.run.app";
 }
